@@ -69,3 +69,4 @@ printf("\n\nTotal Page Faults = %d", faults);
     return 0;
 }
 
+
